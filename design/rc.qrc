@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>static/change.svg</file>
+    <file>static/exchange.svg</file>
+    <file>static/logo.png</file>
+  </qresource>
+</RCC>
