@@ -1,2 +1,3 @@
 PySide6
 PyQt5
+currency|_converter
